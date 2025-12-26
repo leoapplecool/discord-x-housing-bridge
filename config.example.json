@@ -1,0 +1,23 @@
+{
+  "discordToken": "YOUR_DISCORD_BOT_TOKEN",
+  "discordClientId": "YOUR_APPLICATION_ID",
+  "guildId": "YOUR_GUILD_ID",
+  "configureCommandName": "configure",
+  "adminRoleIds": [],
+  "minecraft": {
+    "host": "mc.hypixel.net",
+    "port": 25565,
+    "version": "1.8.9",
+    "auth": "microsoft",
+    "flow": "live",
+    "username": "email@example.com",
+    "authTitle": "00000000402b5328",
+    "visitTarget": "HousingOwnerName",
+    "commandCooldownMs": 1200,
+    "reconnectDelayMs": 5000
+  },
+  "bridge": {
+    "discordToMinecraft": [],
+    "housingToDiscord": []
+  }
+}

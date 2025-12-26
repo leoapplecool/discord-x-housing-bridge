@@ -1,0 +1,27 @@
+{
+  "name": "discord-housing-bot",
+  "version": "1.0.0",
+  "description": "Discord <-> Hypixel Housing bridge bot using mineflayer",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "hypixel",
+    "housing",
+    "mineflayer",
+    "bot",
+    "bridge"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord-api-types": "^0.37.83",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "fs-extra": "^11.3.3",
+    "mineflayer": "^4.33.0"
+  }
+}
