@@ -12,7 +12,7 @@
     "flow": "live",
     "username": "email@example.com",
     "authTitle": "00000000402b5328",
-    "visitTarget": "HousingOwnerName",
+    "visitTarget": "HousingOwnerName", # type in here the housing owner name + the housing name so for example "LeoApple PVP"
     "commandCooldownMs": 1200,
     "reconnectDelayMs": 5000
   },
